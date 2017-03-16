@@ -1,0 +1,4 @@
+{"file":"enemy.png","frames":{
+"enemy_101":{"x":338,"y":1,"w":307,"h":354,"offX":19,"offY":2,"sourceW":340,"sourceH":356},
+"enemy_102":{"x":647,"y":1,"w":339,"h":286,"offX":1,"offY":23,"sourceW":340,"sourceH":356},
+"enemy_103":{"x":1,"y":1,"w":335,"h":344,"offX":0,"offY":12,"sourceW":340,"sourceH":356}}}

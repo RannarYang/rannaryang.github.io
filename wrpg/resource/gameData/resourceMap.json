@@ -1,0 +1,26 @@
+{
+    "coal":[
+        { "output": 10,"capacity": 300 },
+        { "output": 20,"capacity": 800 },
+        { "output": 30,"capacity": 1500 },
+        { "output": 40,"capacity": 2400 },
+        { "output": 50,"capacity": 3500 },
+        { "output": 60,"capacity": 4800 },
+        { "output": 70,"capacity": 6300 },
+        { "output": 80,"capacity": 8000 },
+        { "output": 90,"capacity": 9900 },
+        { "output": 100,"capacity": 12000 }
+    ],
+    "iron": [
+        { "output": 10,"capacity": 300 },
+        { "output": 20,"capacity": 800 },
+        { "output": 30,"capacity": 1500 },
+        { "output": 40,"capacity": 2400 },
+        { "output": 50,"capacity": 3500 },
+        { "output": 60,"capacity": 4800 },
+        { "output": 70,"capacity": 6300 },
+        { "output": 80,"capacity": 8000 },
+        { "output": 90,"capacity": 9900 },
+        { "output": 100,"capacity": 12000 }
+    ]
+}

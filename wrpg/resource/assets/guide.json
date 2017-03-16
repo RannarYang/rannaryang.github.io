@@ -1,0 +1,8 @@
+{"file":"guide.png","frames":{
+"arrow_down":{"x":664,"y":96,"w":58,"h":93,"offX":2,"offY":1,"sourceW":62,"sourceH":96},
+"arrow_left":{"x":569,"y":178,"w":93,"h":58,"offX":2,"offY":2,"sourceW":96,"sourceH":62},
+"arrow_right":{"x":569,"y":118,"w":93,"h":58,"offX":1,"offY":2,"sourceW":96,"sourceH":62},
+"arrow_up":{"x":659,"y":1,"w":58,"h":93,"offX":2,"offY":2,"sourceW":62,"sourceH":96},
+"circle":{"x":664,"y":191,"w":36,"h":36,"offX":0,"offY":0,"sourceW":38,"sourceH":38},
+"dialog":{"x":1,"y":1,"w":566,"h":196,"offX":0,"offY":0,"sourceW":566,"sourceH":196},
+"hand":{"x":569,"y":1,"w":88,"h":115,"offX":0,"offY":0,"sourceW":88,"sourceH":115}}}

@@ -1,0 +1,46 @@
+{
+	"101": {
+	    "id": 101,"name": "量产型防护服","type": 1,"rarity": 1,"effect": [],"energyConp": 2,"description": "",
+	    "levelProp": [
+	        { "hp": 100,"avoidRate": 10,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 5 }] },
+	        { "hp": 110,"avoidRate": 10,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 5 }] },
+	        { "hp": 130,"avoidRate": 10,"consume": [{ "id": 1001,"count": 15 }] },
+	        { "hp": 150,"avoidRate": 10,"consume": [{ "id": 1001,"count": 20 }] },
+	        { "hp": 180,"avoidRate": 10,"consume": [{ "id": 1001,"count": 25 }] },
+	        { "hp": 210,"avoidRate": 10,"consume": [{ "id": 1001,"count": 30 }] }
+	    ]
+	},
+	"102": {
+	    "id": 102,"name": "突击装甲","type": 1,"rarity": 2,"effect": [{ "id": 1008,"lv": 10 }],"energyConp": 3,"description": "",
+	    "levelProp": [
+	        { "hp": 150,"avoidRate": 22,"consume": [{ "id": 1001,"count": 5 },{ "id": 1002,"count": 10 }] },
+	        { "hp": 170,"avoidRate": 24,"consume": [{ "id": 1001,"count": 10 },{ "id": 1002,"count": 20 }] },
+	        { "hp": 200,"avoidRate": 26,"consume": [{ "id": 1001,"count": 15 },{ "id": 1002,"count": 30 }] },
+	        { "hp": 240,"avoidRate": 28,"consume": [{ "id": 1001,"count": 20 },{ "id": 1002,"count": 40 }] },
+	        { "hp": 300,"avoidRate": 30,"consume": [{ "id": 1001,"count": 25 },{ "id": 1002,"count": 50 }] },
+	        { "hp": 320,"avoidRate": 40,"consume": [{ "id": 1001,"count": 30 },{ "id": 1002,"count": 60 }] }
+	    ]
+	},
+	"103": {
+	    "id": 103,"name": "猩红装甲·改","type": 1,"rarity": 4,"effect": [{ "id": 1013,"lv": 6 },{ "id": 1015,"lv": 6 },{ "id": 1018,"lv": 6 },{ "id": 1019,"lv": 6 }],"energyConp": 6,"description": "",
+	    "levelProp": [
+	        { "hp": 300,"avoidRate": 40,"consume": [{ "id": 1001,"count": 5 },{ "id": 1002,"count": 10 }] },
+	        { "hp": 400,"avoidRate": 45,"consume": [{ "id": 1001,"count": 10 },{ "id": 1002,"count": 20 }] },
+	        { "hp": 500,"avoidRate": 50,"consume": [{ "id": 1001,"count": 15 },{ "id": 1002,"count": 30 }] },
+	        { "hp": 600,"avoidRate": 55,"consume": [{ "id": 1001,"count": 20 },{ "id": 1002,"count": 40 }] },
+	        { "hp": 750,"avoidRate": 60,"consume": [{ "id": 1001,"count": 25 },{ "id": 1002,"count": 50 }] },
+	        { "hp": 800,"avoidRate": 70,"consume": [{ "id": 1001,"count": 30 },{ "id": 1002,"count": 70 }] }
+	    ]
+	},
+	"201": {
+	    "id": 201,"name": "通用型机甲","type": 2,"rarity": 1,"effect": [{ "id": 1009, "lv":5}],"energyConp": 10,"description": "",
+	    "levelProp": [
+	        { "hp": 1300,"avoidRate": 40,"consume": [{ "id": 1001,"count": 5 },{ "id": 1002,"count": 10 }] },
+	        { "hp": 1400,"avoidRate": 45,"consume": [{ "id": 1001,"count": 10 },{ "id": 1002,"count": 20 }] },
+	        { "hp": 1500,"avoidRate": 50,"consume": [{ "id": 1001,"count": 15 },{ "id": 1002,"count": 30 }] },
+	        { "hp": 1600,"avoidRate": 55,"consume": [{ "id": 1001,"count": 20 },{ "id": 1002,"count": 40 }] },
+	        { "hp": 1750,"avoidRate": 60,"consume": [{ "id": 1001,"count": 25 },{ "id": 1002,"count": 50 }] },
+	        { "hp": 1800,"avoidRate": 70,"consume": [{ "id": 1001,"count": 30 },{ "id": 1002,"count": 70 }] }
+	    ]
+	}
+}

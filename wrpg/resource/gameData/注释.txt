@@ -1,0 +1,90 @@
+module game {
+    export class GameData {
+        /**
+         * 事件-项目     事件发生后执行的项目添加操作
+         * 事件类型 (剧情前进:1)(任务完成:2)(带回图纸:3)(科技研发:4)
+         * 项目类型 (职业:1)(地图:2)(武器:3)(装甲:4)(道具:5)(开启的科技:6)(完成的科技:7)(开启的任务:8)(达成的任务:9)(结束的任务:10)(开启的剧情:11)(结束的剧情:12)
+         * 描述无实际作用 仅供理解
+         */
+        public static eventMap;
+        
+        /**
+         * 任务   1主线 2日常
+         */ 
+        public static taskMap;
+        
+        /**
+         * 科技
+         * (背包容量:1)(队伍容量:2)(队伍电力容量:3)(煤矿单位产量:4)(铁矿单位产量:5)(转换效率:6)
+         */
+        public static technologyMap;
+        
+        /**
+        * 类型  0:电力,游戏币    1:素材    2:游戏    3:探索    4:药品    5:投掷  9.制作图
+        */
+        public static itemMap;
+
+        /**
+         * 道具制作
+         */
+        public static makeMap;
+
+        /**
+         * 武器
+         * ID 名称 武器种类(1近战 2自动弩 3手枪 4散弹枪 5重兵器) 品质 武器属性[突 斩 坏 火 雷 冰 异] 特效 能耗 等级属性
+         * 攻击力 攻击速度 命中 消耗素材
+         */
+        public static weaponMap;
+
+        /**
+         * 装甲
+         * ID 名称 装甲种类(1标准装甲 2强化机甲) 品质 特效 能耗 描述 等级属性
+         * 生命值 回避率 消耗素材
+         */
+        public static armourMap;
+
+        /**
+         * 职业表 职业名[name] 初始装备, 初始技能
+         */
+        public static raceMap;
+
+        /**
+         * 职业技能树
+         */
+        public static skillTree;
+
+        /**
+         * 技能
+         * 技能名[name]，类型[type]，效果列表[effect] 效果种类[id]，对象[target](0:自己,1:选择乙方一员,2:乙方全员,3:队伍,4:敌方)，键[key]，值[value] 升级点数[lvUpPoint] 提升率[increase]
+         */
+        public static skillMap;
+
+        /**
+         * 效果表  [target]效果对象 0:自己,1:选择乙方一员,2:乙方全员,3:队伍,4:任意一个角色
+         */
+        public static effectMap;
+
+        /**
+         * 敌人配置静态表
+         * name[名字] picture[头像] hp[体力] atk[攻击力] spd[攻速] hitRate[命中值] avoidRate[回避值] debuffHitRate[异常命中率]
+         * atType[攻击伤害属性](1表示拥有该属性) atAccept[伤害吸收率](数值大于1表示受到伤害加深) resist[异常抵抗](数值1表示对该异常免疫)
+         * skill[战技效果列表] drop[掉落物品列表](id:物品ID,rate:掉落率,time:判定次数) escape[逃跑难度](0表示该战斗无法逃离) sp[获得历练点]
+         * 攻击属性序列[突 斩 坏 火 雷 冰 异] 异常序列[燃烧 麻痹 冻结 腐蚀]
+         */
+        public static EnemyMap;
+
+        /**
+         * 资源产出静态表
+         * output:每次产量 capacity:容量
+         */
+        public static resourceMap;
+        
+        /**
+         * 地图触发事件
+         * 当类型是建筑时 status:1(有怪物)，status:2(没怪物，没搜索，不能确定建筑类型)，status:3(已搜索，能确定建筑的类型)，status:4(神马都没有，只能休息和离开，建筑变灰)
+         * 当类型是房间时 status(暂时没用)
+         * 当类型是宝箱、队伍遗迹、大Boss、追踪怪时，status:1(有怪物)，status:2，status:3(已搜索，能确定建筑的类型)，status:4(神马都没有，只能休息和离开，建筑变灰)
+         * enemy怪物 dropDownGroup掉落组等级 sourceType掉落类型[1,2,..]   
+         */
+        public static ExplorationEventMap;    }
+}

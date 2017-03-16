@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="8" height="11" tilewidth="60" tileheight="60">
+ <tileset firstgid="1" name="map_sprite" tilewidth="60" tileheight="60">
+  <image source="map_sprite.png" width="420" height="300"/>
+ </tileset>
+ <layer name="surfaceLayer" width="8" height="11">
+  <data encoding="base64">
+   BAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAA==
+  </data>
+ </layer>
+ <layer name="buildingLayer" width="8" height="11">
+  <data encoding="base64">
+   CwAAAAsAAAALAAAACwAAAAsAAAALAAAACwAAAAsAAAALAAAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAACwAAAAsAAAAAAAAADwAAAAAAAAALAAAAAAAAAAAAAAALAAAACwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAsAAAALAAAACwAAAAsAAAALAAAACwAAAAQAAAABAAAACwAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAALAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAACwAAAAsAAAAAAAAAAAAAAAQAAAAPAAAADwAAAAAAAAALAAAACwAAAAAAAAAAAAAAAAAAAAQAAAAEAAAABAAAAAsAAAALAAAACwAAAAsAAAALAAAACwAAAAsAAAALAAAACwAAAA==
+  </data>
+ </layer>
+ <objectgroup name="objectLayer">
+  <object name="201" type="chest" x="120" y="120" width="60" height="60"/>
+  <object name="transfer" type="transfer" x="60" y="300" width="60" height="60"/>
+  <object name="101" type="fixationMonster" x="180" y="180" width="60" height="60"/>
+  <object name="203" type="chest" x="300" y="480" width="60" height="60"/>
+  <object name="[&quot;A-1&quot;,&quot;b-1&quot;]" type="path" x="180" y="420" width="60" height="60">
+   <properties>
+    <property name="path" value="aaaa"/>
+   </properties>
+  </object>
+  <object name="[&quot;a-2&quot;,&quot;b-2&quot;]" type="path" x="240" y="420" width="60" height="60">
+   <properties>
+    <property name="path" value="bbbb"/>
+   </properties>
+  </object>
+  <object name="[&quot;a-3&quot;,&quot;b-3&quot;]" type="path" x="300" y="420" width="60" height="60">
+   <properties>
+    <property name="path" value="cccc"/>
+   </properties>
+  </object>
+  <object name="[&quot;a-4&quot;,&quot;b-4&quot;]" type="path" x="360" y="420" width="60" height="60">
+   <properties>
+    <property name="path" value="dddd"/>
+   </properties>
+  </object>
+  <object name="[&quot;a-5&quot;,&quot;b-5&quot;]" type="path" x="360" y="480" width="60" height="60"/>
+  <object name="[&quot;a-6&quot;,&quot;B-6&quot;]" type="path" x="360" y="540" width="60" height="60"/>
+  <object name="[&quot;a-7&quot;,&quot;b-7&quot;]" type="path" x="300" y="540" width="60" height="60"/>
+  <object name="[&quot;a-8&quot;,&quot;b-8&quot;]" type="path" x="240" y="540" width="60" height="60"/>
+  <object name="[&quot;a-9&quot;,&quot;b-9&quot;]" type="path" x="180" y="540" width="60" height="60"/>
+  <object name="[&quot;a-10&quot;,&quot;b-10&quot;]" type="path" x="180" y="480" width="60" height="60">
+   <properties>
+    <property name="path" value="a b"/>
+   </properties>
+  </object>
+  <object name="202" type="chest" x="240" y="480" width="60" height="60"/>
+  <object name="5001" type="tracingMonster" x="360" y="240" width="60" height="60"/>
+ </objectgroup>
+</map>

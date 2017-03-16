@@ -1,0 +1,9 @@
+{"file":"weapon.png","frames":{
+"rwxq_back_png":{"x":849,"y":121,"w":88,"h":73,"offX":1,"offY":1,"sourceW":90,"sourceH":75},
+"jineng_back_png":{"x":1,"y":349,"w":307,"h":124,"offX":0,"offY":0,"sourceW":307,"sourceH":124},
+"star_png":{"x":814,"y":145,"w":26,"h":24,"offX":0,"offY":0,"sourceW":26,"sourceH":24},
+"xuanzhong_png":{"x":723,"y":1,"w":124,"h":142,"offX":0,"offY":0,"sourceW":124,"sourceH":142},
+"touxiang_back_png":{"x":849,"y":1,"w":118,"h":118,"offX":0,"offY":0,"sourceW":118,"sourceH":118},
+"title_zhuangbei_png":{"x":723,"y":145,"w":89,"h":45,"offX":95,"offY":3,"sourceW":280,"sourceH":54},
+"zhuangbei_back_png":{"x":1,"y":223,"w":307,"h":124,"offX":0,"offY":0,"sourceW":307,"sourceH":124},
+"hero_had_back_png":{"x":1,"y":1,"w":720,"h":220,"offX":0,"offY":0,"sourceW":720,"sourceH":220}}}

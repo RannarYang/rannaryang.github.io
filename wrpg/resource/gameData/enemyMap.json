@@ -1,0 +1,22 @@
+{
+	"101": {
+	    "name": "变异企鹅","picture": "enemy_101","hp": 2,"atk": 1,"spd": 0.5,"hitRate": 90,"avoidRate": 10,"debuffHitRate": 2,
+	    "atType": [0,1,0,0,0,0,0],"atAccept": [1,1,1,1.3,2,0.5,1.5],"resist": [0,0,0,0],
+	    "skill": [{ "id": 4001,"lv": 1 },{ "id": 6001,"lv": 1 }],"drop": [{ "id": 1005,"rate": 80,"time": 2 },{ "id": 1003,"rate": 80,"time": 3 }],"escape": 20,"sp":2
+	},
+	"102": {
+	    "name": "变异冰狼","picture": "enemy_102","hp": 2,"atk": 1,"spd": 0.6,"hitRate": 100,"avoidRate": 30,"debuffHitRate": 10,
+	    "atType": [0,1,0,0,0,0,0],"atAccept": [1,1,1,1.3,2,0.5,1.5],"resist": [0,0,0,0],
+	    "skill": [{ "id": 4001,"lv": 1 },{ "id": 6001,"lv": 1 }],"drop": [{ "id": 1005,"rate": 80,"time": 2 },{ "id": 1003,"rate": 80,"time": 3 }],"escape": 20,"sp": 3
+	},
+	"103": {
+	    "name": "变异秃鹰","picture": "enemy_103","hp": 6,"atk": 1,"spd": 0.5,"hitRate": 80,"avoidRate": 0,"debuffHitRate": 10,
+	    "atType": [0,1,0,0,0,0,0],"atAccept": [1,1,1,1,1,1,3],"resist": [0,0,0,0],
+	    "skill": [],"drop": [{ "id": 1005,"rate": 80,"time": 2 },{ "id": 1003,"rate": 80,"time": 2 }],"escape": 20,"sp": 3
+	},
+	"111": {
+	    "name": "变异企鹅领主","picture": "enemy_101","hp": 10,"atk": 1,"spd": 0.6,"hitRate": 90,"avoidRate": 20,"debuffHitRate": 10,
+	    "atType": [0,1,0,0,0,1,0],"atAccept": [1,1,1,1,1,1,3],"resist": [0,0,0,0],
+	    "skill": [{ "id": 4001,"lv": 1 },{ "id": 6001,"lv": 1 }],"drop": [{ "id": 1005,"rate": 80,"time": 3 },{ "id": 1003,"rate": 80,"time": 3 },{ "id": 9101,"rate": 30,"time": 1 },{ "id": 9201,"rate": 30,"time": 1 },{ "id": 9301,"rate": 30,"time": 1 },{ "id": 9401,"rate": 30,"time": 1 }],"escape": 0,"sp": 10
+	}
+}

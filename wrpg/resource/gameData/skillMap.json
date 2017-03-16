@@ -1,0 +1,37 @@
+{
+	"1001": { "name": "近战专精","type": 0,"effect": [1001],"lvUpPoint": [10,20,30,40,50] },
+	"1002": { "name": "自动弩专精","type": 0,"effect": [1002],"lvUpPoint": [1,1,1,1,1] },
+	"1003": { "name": "手枪专精","type": 0,"effect": [1003],"lvUpPoint": [1,1,1,1,1] },
+	"1004": { "name": "散弹枪专精","type": 0,"effect": [1004],"lvUpPoint": [10,20,30,40,50] },
+	"1005": { "name": "重兵器专精","type": 0,"effect": [1005],"lvUpPoint": [10,20,30,40,50] },
+	"1006": { "name": "装甲强化","type": 0,"effect": [1006],"lvUpPoint": [10,20,30,40,50] },
+	"1007": { "name": "机甲强化","type": 0,"effect": [1007],"lvUpPoint": [10,20,30,40,50] },
+	"1008": { "name": "修整","type": 0,"effect": [1028],"lvUpPoint": [10,20,30,40,50] },      
+	"1009": { "name": "精神统一","type": 0,"effect": [1009],"lvUpPoint": [10,20,30,40,50] },
+	"1010": { "name": "灵巧","type": 0,"effect": [1012],"lvUpPoint": [10,20,30,40,50] },
+	"1011": { "name": "隐秘","type": 0,"effect": [1030],"lvUpPoint": [10,20,30,40,50] },
+	"1012": { "name": "挑拨","type": 0,"effect": [],"lvUpPoint": [10,20,30,40,50] },
+	"1013": { "name": "属性抵抗","type": 0,"effect": [1013,1015,1017],"lvUpPoint": [1,2,3,4,5,6,7,8,9,10] },
+	"1014": { "name": "侵蚀抵抗","type": 0,"effect": [1019],"lvUpPoint": [1,2,3,4,5,6,7,8,9,10] },
+	"1015": { "name": "钢铁躯体","type": 0,"effect": [1020],"lvUpPoint": [10] },
+	"1016": { "name": "学识","type": 0,"effect": [2001],"lvUpPoint": [10,20,30,40,50] },
+	"1017": { "name": "解析","type": 0,"effect": [2002],"lvUpPoint": [1000,2000,5000] },
+	"1018": { "name": "侦查眼","type": 0,"effect": [2003],"lvUpPoint": [1000,2000,5000] },
+	"1019": { "name": "机械师","type": 0,"effect": [1027,1013],"lvUpPoint": [10,20,30,40,50] },
+	"1020": { "name": "战略优势","type": 0,"effect": [2004,2005],"lvUpPoint": [10,20,30,40,50] },
+	"1021": { "name": "极限集中","type": 0,"effect": [1024],"lvUpPoint": [10,20,30,40,50] },
+
+	"2002": { "name": "应急治疗","type": 1,"effect": [],"lvUpPoint": [0],"necessary": 0 },
+
+
+	"2003": { "name": "全体突击","type": 1,"effect": [],"lvUpPoint": [100,200,300,400,500],"necessary": 0 },
+	"2004": { "name": "全力一击","type": 1,"effect": [],"lvUpPoint": [100,200,300,400,500],"necessary": 1 },
+	"2005": { "name": "疾速射击","type": 1,"effect": [],"lvUpPoint": [1,1,1,1,1],"necessary": 3 },
+	"2006": { "name": "毒蛇","type": 1,"effect": [],"lvUpPoint": [100,200,300,400,500],"necessary": 2 },
+
+	"3001": { "name": "药品使用","type": 1,"effect": [3001],"lvUpPoint": [0],"necessary": 0 },
+	"3002": { "name": "投掷","type": 1,"effect": [3002],"lvUpPoint": [0],"necessary": 0 },
+
+	"4001": { "name": "审判","type": 1,"effect": [],"lvUpPoint": [1000],"necessary": 0 },
+	"4002": { "name": "裁决","type": 1,"effect": [],"lvUpPoint": [1000],"necessary": 0 }
+}

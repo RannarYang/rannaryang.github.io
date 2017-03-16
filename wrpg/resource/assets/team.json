@@ -1,0 +1,11 @@
+{"file":"team.png","frames":{
+"add_png":{"x":821,"y":1,"w":68,"h":70,"offX":14,"offY":17,"sourceW":96,"sourceH":96},
+"headback_no_png":{"x":723,"y":1,"w":96,"h":96,"offX":0,"offY":0,"sourceW":96,"sourceH":96},
+"headback_xiuxi_png":{"x":661,"y":223,"w":96,"h":96,"offX":0,"offY":0,"sourceW":96,"sourceH":96},
+"hero_back_get_png":{"x":1,"y":389,"w":658,"h":164,"offX":0,"offY":0,"sourceW":658,"sourceH":164},
+"hero_back_no_png":{"x":1,"y":223,"w":658,"h":164,"offX":0,"offY":0,"sourceW":658,"sourceH":164},
+"icon_time_png":{"x":891,"y":1,"w":30,"h":30,"offX":0,"offY":0,"sourceW":30,"sourceH":30},
+"team_list_back_png":{"x":1,"y":1,"w":720,"h":220,"offX":0,"offY":0,"sourceW":720,"sourceH":220},
+"title_txd_png":{"x":723,"y":99,"w":134,"h":46,"offX":73,"offY":3,"sourceW":280,"sourceH":54},
+"yishangzhen_png":{"x":723,"y":147,"w":114,"h":29,"offX":0,"offY":0,"sourceW":114,"sourceH":30},
+"yishangzhen_text_png":{"x":723,"y":178,"w":68,"h":29,"offX":1,"offY":0,"sourceW":70,"sourceH":30}}}

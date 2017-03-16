@@ -1,0 +1,7 @@
+{"file":"construction.png","frames":{
+"technologyCenter_png":{"x":1,"y":1,"w":164,"h":171,"offX":4,"offY":9,"sourceW":172,"sourceH":184},
+"collector_coal_png":{"x":317,"y":1,"w":95,"h":96,"offX":0,"offY":0,"sourceW":96,"sourceH":96},
+"collector_iron_png":{"x":414,"y":88,"w":95,"h":83,"offX":0,"offY":10,"sourceW":96,"sourceH":96},
+"collector_oil_png":{"x":414,"y":1,"w":93,"h":85,"offX":3,"offY":7,"sourceW":96,"sourceH":96},
+"manufacturingPlant_png":{"x":167,"y":1,"w":148,"h":180,"offX":4,"offY":0,"sourceW":172,"sourceH":184},
+"powerStation_png":{"x":1,"y":174,"w":108,"h":77,"offX":1,"offY":24,"sourceW":110,"sourceH":110}}}

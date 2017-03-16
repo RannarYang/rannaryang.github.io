@@ -1,0 +1,79 @@
+{
+    "101": {
+        "id": 101,"name": "求生者匕首","type": 1,"rarity": 1,"atType": [0,1,0,0,0,0,0],"effect": [],"energyConp": 0,"description": "",
+        "levelProp": [
+            { "atk": 5,"spd": 0.8,"hitRate": 90,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 5 }] },
+            { "atk": 6,"spd": 0.8,"hitRate": 90,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 1 }] },
+            { "atk": 7,"spd": 0.8,"hitRate": 90,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 2 }] },
+            { "atk": 8,"spd": 0.8,"hitRate": 95,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 3 }] },
+            { "atk": 9,"spd": 0.8,"hitRate": 95,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 4 }] },
+            { "atk": 10,"spd": 0.9,"hitRate": 100,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 5 }] }
+        ]
+    },
+    "102": {
+        "id": 102,"name": "猩红切割","type": 1,"rarity": 5,"atType": [0,1,0,1,0,0,0],"effect": [],"energyConp": 2,"description": "",
+        "levelProp": [
+            { "atk": 5,"spd": 0.8,"hitRate": 90,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 5 }] },
+            { "atk": 6,"spd": 0.8,"hitRate": 90,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 1 }] },
+            { "atk": 7,"spd": 0.8,"hitRate": 90,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 2 }] },
+            { "atk": 8,"spd": 0.8,"hitRate": 95,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 3 }] },
+            { "atk": 9,"spd": 0.8,"hitRate": 95,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 4 }] },
+            { "atk": 10,"spd": 0.9,"hitRate": 100,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 5 }] }
+        ]
+    },
+    "201": {
+        "id": 201,"name": "轻弩枪","type": 2,"rarity": 1,"atType": [1,0,0,0,0,0,0],"effect": [],"energyConp": 0,"description": "",
+        "levelProp": [
+            { "atk": 10,"spd": 0.4,"hitRate": 80,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 5 }] },
+            { "atk": 13,"spd": 0.4,"hitRate": 80,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 1 }] },
+            { "atk": 16,"spd": 0.4,"hitRate": 85,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 2 }] },
+            { "atk": 19,"spd": 0.4,"hitRate": 85,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 3 }] },
+            { "atk": 12,"spd": 0.4,"hitRate": 90,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 4 }] },
+            { "atk": 25,"spd": 0.5,"hitRate": 90,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 5 }] }
+        ]
+    },
+    "301": {
+        "id": 301,"name": "M16手枪","type": 3,"rarity": 1,"atType": [1,0,0,0,0,0,0],"effect": [],"energyConp": 0,"description": "",
+        "levelProp": [
+            { "atk": 8,"spd": 0.6,"hitRate": 90,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 5 }] },
+            { "atk": 10,"spd": 0.6,"hitRate": 90,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 1 }] },
+            { "atk": 12,"spd": 0.6,"hitRate": 90,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 2 }] },
+            { "atk": 14,"spd": 0.6,"hitRate": 95,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 3 }] },
+            { "atk": 16,"spd": 0.6,"hitRate": 95,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 4 }] },
+            { "atk": 18,"spd": 0.7,"hitRate": 100,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 5 }] }
+        ]
+    },
+    "302": {
+        "id": 302,"name": "勃朗宁手枪","type": 3,"rarity": 2,"atType": [1,0,0,0,0,0,0],"effect": [],"energyConp": 0,"description": "",
+        "levelProp": [
+            { "atk": 20,"spd": 0.6,"hitRate": 90,"consume": [{ "id": 1001,"count": 20 },{ "id": 1501,"count": 5 }] },
+            { "atk": 24,"spd": 0.6,"hitRate": 90,"consume": [{ "id": 1001,"count": 20 },{ "id": 1501,"count": 1 }] },
+            { "atk": 26,"spd": 0.6,"hitRate": 90,"consume": [{ "id": 1001,"count": 20 },{ "id": 1501,"count": 2 }] },
+            { "atk": 28,"spd": 0.6,"hitRate": 95,"consume": [{ "id": 1001,"count": 20 },{ "id": 1501,"count": 3 }] },
+            { "atk": 30,"spd": 0.6,"hitRate": 95,"consume": [{ "id": 1001,"count": 20 },{ "id": 1501,"count": 4 }] },
+            { "atk": 35,"spd": 0.7,"hitRate": 100,"consume": [{ "id": 1001,"count": 20 },{ "id": 1501,"count": 5 }] }
+        ]
+    },
+    "401": {
+        "id": 401,"name": "雄鹰散弹枪","type": 4,"rarity": 2,"atType": [0,0,1,0,0,0,0],"effect": [],"energyConp": 0,"description": "",
+        "levelProp": [
+            { "atk": 12,"spd": 0.3,"hitRate": 80,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 5 }] },
+            { "atk": 15,"spd": 0.3,"hitRate": 80,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 1 }] },
+            { "atk": 18,"spd": 0.3,"hitRate": 85,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 2 }] },
+            { "atk": 20,"spd": 0.3,"hitRate": 85,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 3 }] },
+            { "atk": 22,"spd": 0.3,"hitRate": 90,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 4 }] },
+            { "atk": 25,"spd": 0.3,"hitRate": 90,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 5 }] }
+        ]
+    },
+    "501": {
+        "id": 501,"name": "打击单元","type": 5,"rarity": 1,"atType": [0,0,1,0,0,0,0],"effect": [],"energyConp": 0,"description": "",
+        "levelProp": [
+            { "atk": 12,"spd": 0.3,"hitRate": 80,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 5 }] },
+            { "atk": 15,"spd": 0.3,"hitRate": 80,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 1 }] },
+            { "atk": 18,"spd": 0.3,"hitRate": 85,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 2 }] },
+            { "atk": 20,"spd": 0.3,"hitRate": 85,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 3 }] },
+            { "atk": 22,"spd": 0.3,"hitRate": 90,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 4 }] },
+            { "atk": 25,"spd": 0.3,"hitRate": 90,"consume": [{ "id": 1001,"count": 20 },{ "id": 1003,"count": 5 }] }
+        ]
+    }
+}

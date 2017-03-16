@@ -1,0 +1,55 @@
+{
+	"1101": {
+	    "type": 1,"description": "第一次进入游戏","entrys": [
+	        { "type": 3,"entryId": 101 },{ "type": 3,"entryId": 201 },{ "type": 3,"entryId": 301 },{ "type": 3,"entryId": 401 },{ "type": 3,"entryId": 501 },
+	        { "type": 4,"entryId": 101 },{ "type": 4,"entryId": 201 },
+	        { "type": 6,"entryId": 601 },
+	        { "type": 11,"entryId": 100 },{ "type": 11,"entryId": 101 },{ "type": 11,"entryId": 102 },{ "type": 11,"entryId": 103 },{ "type": 11,"entryId": 201 },{ "type": 11,"entryId": 204 },{ "type": 11,"entryId": 205 },{ "type": 11,"entryId": 206 },{ "type": 11,"entryId": 207 },{ "type": 11,"entryId": 208 }
+	    ],"precondition": 0
+	},
+
+	"2401": { "type": 2,"description": "领取任务401奖励","entrys": [{ "type": 8,"entryId": 402 }],"precondition": 4401 },
+	"2402": { "type": 2,"description": "领取任务402奖励","entrys": [{ "type": 8,"entryId": 403 },{ "type": 8,"entryId": 201 }],"precondition": 4501 },
+	"2403": { "type": 2,"description": "领取任务403奖励","entrys": [],"precondition": 4403 },
+
+	"3101": { "type": 3,"description": "带回9101图纸","entrys": [{ "type": 5,"entryId": 1501 }],"precondition": 0 },
+	"3201": { "type": 3,"description": "带回9201图纸","entrys": [{ "type": 3,"entryId": 302 }],"precondition": 0 },
+	"3301": { "type": 3,"description": "带回9301图纸","entrys": [{ "type": 4,"entryId": 102 }],"precondition": 0 },
+	"3401": { "type": 3,"description": "带回9401图纸","entrys": [{ "type": 5,"entryId": 3001 }],"precondition": 0 },
+
+	"4101": { "type": 4,"description": "完成背包容量科技1","entrys": [{ "type": 6,"entryId": 102 }],"precondition": 1101 },
+	"4102": { "type": 4,"description": "完成背包容量科技2","entrys": [{ "type": 6,"entryId": 103 }],"precondition": 4101 },
+	"4103": { "type": 4,"description": "完成背包容量科技3","entrys": [{ "type": 6,"entryId": 104 }],"precondition": 4102 },
+	"4104": { "type": 4,"description": "完成背包容量科技4","entrys": [{ "type": 6,"entryId": 105 }],"precondition": 4103 },
+	"4105": { "type": 4,"description": "完成背包容量科技5","entrys": [],"precondition": 4104 },
+
+	"4301": { "type": 4,"description": "完成电池容量科技1","entrys": [{ "type": 6,"entryId": 302 }],"precondition": 1101 },
+	"4302": { "type": 4,"description": "完成电池容量科技2","entrys": [{ "type": 6,"entryId": 303 }],"precondition": 4301 },
+	"4303": { "type": 4,"description": "完成电池容量科技3","entrys": [{ "type": 6,"entryId": 304 }],"precondition": 4302 },
+	"4304": { "type": 4,"description": "完成电池容量科技4","entrys": [{ "type": 6,"entryId": 305 }],"precondition": 4303 },
+	"4305": { "type": 4,"description": "完成电池容量科技5","entrys": [],"precondition": 4304 },
+
+	"4401": { "type": 4,"description": "完成煤矿场lv1","entrys": [{ "type": 6,"entryId": 402 },{ "type": 6,"entryId": 501 },{ "type": 9,"entryId": 401 }],"precondition": 1101 },
+	"4402": { "type": 4,"description": "完成煤矿场lv2","entrys": [{ "type": 6,"entryId": 403 }],"precondition": 4401 },
+	"4403": { "type": 4,"description": "完成煤矿场lv3","entrys": [{ "type": 6,"entryId": 404 },{ "type": 9,"entryId": 403 }],"precondition": 4402 },
+	"4404": { "type": 4,"description": "完成煤矿场lv4","entrys": [{ "type": 6,"entryId": 405 }],"precondition": 4403 },
+	"4405": { "type": 4,"description": "完成煤矿场lv5","entrys": [{ "type": 6,"entryId": 406 }],"precondition": 4404 },
+	"4406": { "type": 4,"description": "完成煤矿场lv6","entrys": [{ "type": 6,"entryId": 407 }],"precondition": 4405 },
+	"4407": { "type": 4,"description": "完成煤矿场lv7","entrys": [{ "type": 6,"entryId": 408 }],"precondition": 4406 },
+	"4408": { "type": 4,"description": "完成煤矿场lv8","entrys": [{ "type": 6,"entryId": 409 }],"precondition": 4407 },
+	"4409": { "type": 4,"description": "完成煤矿场lv9","entrys": [{ "type": 6,"entryId": 410 }],"precondition": 4408 },
+	"4410": { "type": 4,"description": "完成煤矿场lv10","entrys": [],"precondition": 4409 },
+
+	"4501": { "type": 4,"description": "完成铁矿场lv1","entrys": [{ "type": 6,"entryId": 502 },{ "type": 9,"entryId": 402 }],"precondition": 1101 },
+	"4502": { "type": 4,"description": "完成铁矿场lv2","entrys": [{ "type": 6,"entryId": 503 }],"precondition": 4501 },
+	"4503": { "type": 4,"description": "完成铁矿场lv3","entrys": [{ "type": 6,"entryId": 504 }],"precondition": 4502 },
+	"4504": { "type": 4,"description": "完成铁矿场lv4","entrys": [{ "type": 6,"entryId": 505 }],"precondition": 4503 },
+	"4505": { "type": 4,"description": "完成铁矿场lv5","entrys": [{ "type": 6,"entryId": 506 }],"precondition": 4504 },
+	"4506": { "type": 4,"description": "完成铁矿场lv6","entrys": [{ "type": 6,"entryId": 507 }],"precondition": 4505 },
+	"4507": { "type": 4,"description": "完成铁矿场lv7","entrys": [{ "type": 6,"entryId": 508 }],"precondition": 4506 },
+	"4508": { "type": 4,"description": "完成铁矿场lv8","entrys": [{ "type": 6,"entryId": 509 }],"precondition": 4507 },
+	"4509": { "type": 4,"description": "完成铁矿场lv9","entrys": [{ "type": 6,"entryId": 510 }],"precondition": 4508 },
+	"4510": { "type": 4,"description": "完成铁矿场lv10","entrys": [],"precondition": 4509 },
+
+	"4601": { "type": 4,"description": "完成火电站","entrys": [{ "type": 6,"entryId": 401 },{ "type": 8,"entryId": 401 }],"precondition": 0 }
+}

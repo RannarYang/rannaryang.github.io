@@ -1,0 +1,8 @@
+{
+	"9001": { "name": "旧人类","pArmour": 101,"pWeapon": 301,"pSkill": [3001,1003,1006],"pic":"oldHuman_png"},
+	"9002": { "name": "克隆人","pArmour": 102,"pWeapon": 301,"pSkill": [3002,1003,1006],"pic":"cloneHuman_png"},
+	"9003": { "name": "变异人","pic":"mutants_png" },
+	"9004": { "name": "改造人","pic":"transformHuman_png" },
+	"9005": { "name": "机器人","pic":"robot_png" },
+	"9006": { "name": "神裔" ,"pic":"robot_png"}
+}

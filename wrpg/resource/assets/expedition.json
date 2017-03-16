@@ -1,0 +1,8 @@
+{"file":"expedition.png","frames":{
+"czzb_kuang_png":{"x":1,"y":1,"w":648,"h":692,"offX":0,"offY":0,"sourceW":648,"sourceH":692},
+"xiedai_kong_png":{"x":651,"y":107,"w":286,"h":100,"offX":2,"offY":2,"sourceW":290,"sourceH":104},
+"czzb_back_png":{"x":1,"y":695,"w":720,"h":271,"offX":0,"offY":0,"sourceW":720,"sourceH":271},
+"team_text_png":{"x":1,"y":968,"w":176,"h":46,"offX":0,"offY":0,"sourceW":178,"sourceH":48},
+"xiedai_normal_png":{"x":179,"y":968,"w":145,"h":51,"offX":0,"offY":1,"sourceW":145,"sourceH":52},
+"xiedai_on_png":{"x":651,"y":1,"w":290,"h":104,"offX":0,"offY":0,"sourceW":290,"sourceH":104},
+"xiedai_normal_s_png":{"x":179,"y":968,"w":145,"h":51,"offX":0,"offY":1,"sourceW":145,"sourceH":52}}}

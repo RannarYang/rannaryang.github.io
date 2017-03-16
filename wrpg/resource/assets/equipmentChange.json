@@ -1,0 +1,9 @@
+{"file":"equipmentChange.png","frames":{
+"right_back_png":{"x":1,"y":430,"w":82,"h":75,"offX":0,"offY":0,"sourceW":82,"sourceH":75},
+"zb_back_on_png":{"x":1,"y":1,"w":294,"h":108,"offX":0,"offY":0,"sourceW":294,"sourceH":108},
+"zhuangbeizhong_png":{"x":85,"y":430,"w":72,"h":29,"offX":5,"offY":0,"sourceW":82,"sourceH":30},
+"zhanji_back_png":{"x":1,"y":221,"w":288,"h":103,"offX":3,"offY":3,"sourceW":294,"sourceH":108},
+"zb_back_png":{"x":1,"y":326,"w":288,"h":102,"offX":3,"offY":4,"sourceW":294,"sourceH":108},
+"right_fgf_png":{"x":1,"y":507,"w":292,"h":2,"offX":5,"offY":0,"sourceW":300,"sourceH":2},
+"close_png":{"x":295,"y":430,"w":32,"h":32,"offX":0,"offY":0,"sourceW":32,"sourceH":32},
+"zhanji_back_on_png":{"x":1,"y":111,"w":294,"h":108,"offX":0,"offY":0,"sourceW":294,"sourceH":108}}}

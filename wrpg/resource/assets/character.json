@@ -1,0 +1,11 @@
+{"file":"character.png","frames":{
+"cloneHuman_png":{"x":1,"y":1,"w":110,"h":110,"offX":0,"offY":0,"sourceW":110,"sourceH":110},
+"cloneHuman_die_png":{"x":113,"y":1,"w":110,"h":110,"offX":0,"offY":0,"sourceW":110,"sourceH":110},
+"mutants_png":{"x":225,"y":1,"w":110,"h":110,"offX":0,"offY":0,"sourceW":110,"sourceH":110},
+"mutants_die_png":{"x":337,"y":1,"w":110,"h":110,"offX":0,"offY":0,"sourceW":110,"sourceH":110},
+"oldHuman_png":{"x":1,"y":113,"w":110,"h":110,"offX":0,"offY":0,"sourceW":110,"sourceH":110},
+"oldHuman_die_png":{"x":113,"y":113,"w":110,"h":110,"offX":0,"offY":0,"sourceW":110,"sourceH":110},
+"robot_png":{"x":225,"y":113,"w":110,"h":110,"offX":0,"offY":0,"sourceW":110,"sourceH":110},
+"robot_die_png":{"x":337,"y":113,"w":110,"h":110,"offX":0,"offY":0,"sourceW":110,"sourceH":110},
+"transformHuman_png":{"x":1,"y":225,"w":110,"h":110,"offX":0,"offY":0,"sourceW":110,"sourceH":110},
+"transformHuman_die_png":{"x":113,"y":225,"w":110,"h":110,"offX":0,"offY":0,"sourceW":110,"sourceH":110}}}

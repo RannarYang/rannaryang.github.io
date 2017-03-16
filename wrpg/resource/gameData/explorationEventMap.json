@@ -1,0 +1,37 @@
+{
+	"1001": { "type": "building","status": 1,"enemy": [101],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+	"1002": { "type": "building","status": 1,"enemy": [101],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+	"1003": { "type": "building","status": 1,"enemy": [101],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+	"1004": { "type": "building","status": 1,"enemy": [101],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+	"1005": { "type": "building","status": 1,"enemy": [101],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+	"1006": { "type": "building","status": 1,"enemy": [101],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+	"1007": { "type": "building","status": 1,"enemy": [101],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+	"1008": { "type": "building","status": 1,"enemy": [101],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+	"1009": { "type": "building","status": 1,"enemy": [101],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+	"1010": { "type": "building","status": 1,"enemy": [101],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+	"1011": { "type": "building","status": 1,"enemy": [101],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+	"1012": { "type": "building","status": 1,"enemy": [101],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+
+	"2001": { "type": "room","keyId": 3001,"mapName": "doormap1-1" },
+	"2002": { "type": "room","keyId": 3002,"mapName": "doormap1-2" },
+	"2003": { "type": "room","keyId": 3003,"mapName": "doormap1-2" },
+	"3001": { "type": "treasure","status": 1,"enemy": [101],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+	"3002": { "type": "treasure","status": 1,"enemy": [102],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+	"3003": { "type": "treasure","status": 1,"enemy": [103],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+	"3004": { "type": "treasure","status": 1,"enemy": [101],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+
+	"4001": { "type": "teamSites","status": 1,"enemy": [101],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+	"4002": { "type": "teamSites","status": 1,"enemy": [102],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+	"4003": { "type": "teamSites","status": 1,"enemy": [103],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+	"4004": { "type": "teamSites","status": 1,"enemy": [102],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+
+	"5001": { "type": "boss","status": 1,"enemy": [102],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+	"5002": { "type": "boss","status": 1,"enemy": [103],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+	"5003": { "type": "boss","status": 1,"enemy": [102],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+	"5004": { "type": "boss","status": 1,"enemy": [103],"dropDownGroup": [1],"sourceType": [1,2,3],"dramaText": "发现了少量残留的物资" },
+
+	"6001": { "type": "tracingMoster","status": 1,"enemy": [103],"dropDownGroup": [],"sourceType": [],"dramaText": "发现了少量残留的物资" },
+	"6002": { "type": "tracingMoster","status": 1,"enemy": [102],"dropDownGroup": [],"sourceType": [],"dramaText": "发现了少量残留的物资" },
+	"6003": { "type": "tracingMoster","status": 1,"enemy": [103],"dropDownGroup": [],"sourceType": [],"dramaText": "发现了少量残留的物资" },
+	"6004": { "type": "tracingMoster","status": 1,"enemy": [101],"dropDownGroup": [],"sourceType": [],"dramaText": "发现了少量残留的物资" }
+}

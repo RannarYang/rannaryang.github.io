@@ -1,0 +1,9 @@
+{"file":"icon.png","frames":{
+"armour1_png":{"x":77,"y":80,"w":65,"h":74,"offX":8,"offY":3,"sourceW":80,"sourceH":80},
+"armour2_png":{"x":81,"y":1,"w":73,"h":77,"offX":5,"offY":1,"sourceW":80,"sourceH":80},
+"skill1_png":{"x":144,"y":143,"w":43,"h":73,"offX":18,"offY":4,"sourceW":80,"sourceH":80},
+"weapon1_png":{"x":144,"y":80,"w":74,"h":61,"offX":3,"offY":11,"sourceW":80,"sourceH":80},
+"weapon2_png":{"x":156,"y":1,"w":75,"h":55,"offX":2,"offY":14,"sourceW":80,"sourceH":80},
+"weapon3_png":{"x":1,"y":147,"w":64,"h":75,"offX":10,"offY":4,"sourceW":80,"sourceH":80},
+"weapon4_png":{"x":1,"y":76,"w":74,"h":69,"offX":3,"offY":5,"sourceW":80,"sourceH":80},
+"weapon5_png":{"x":1,"y":1,"w":78,"h":73,"offX":1,"offY":2,"sourceW":80,"sourceH":80}}}

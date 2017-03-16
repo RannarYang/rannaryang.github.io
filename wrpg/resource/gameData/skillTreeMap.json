@@ -1,0 +1,58 @@
+{
+    "9001": [
+        { "skill": 3001,"precondition": [] },
+        { "skill": 1003,"precondition": [{ "skill": 3001,"lv": 1 }] },
+        { "skill": 2005,"precondition": [{ "skill": 1003,"lv": 2 }] },
+        { "skill": 1002,"precondition": [{ "skill": 1003,"lv": 1 }] },
+        { "skill": 2006,"precondition": [{ "skill": 1002,"lv": 1 }] },
+        { "skill": 1011,"precondition": [{ "skill": 2006,"lv": 1 }] },
+        { "skill": 1001,"precondition": [{ "skill": 1003,"lv": 1 }] },
+        { "skill": 2004,"precondition": [{ "skill": 1001,"lv": 1 }] },
+        { "skill": 1010,"precondition": [{ "skill": 2004,"lv": 1 }] },
+        { "skill": 4001,"precondition": [{ "skill": 1011,"lv": 1 },{ "skill": 2005,"lv": 1 },{ "skill": 1010,"lv": 1 }] },
+        { "skill": 1016,"precondition": [{ "skill": 3001,"lv": 1 }] },
+        { "skill": 2002,"precondition": [{ "skill": 1016,"lv": 1 }] },
+        { "skill": 1006,"precondition": [{ "skill": 3001,"lv": 1 }] },
+        { "skill": 1008,"precondition": [{ "skill": 1006,"lv": 1 },{ "skill": 1016,"lv": 1 }] },
+        { "skill": 1019,"precondition": [{ "skill": 1008,"lv": 1 }] },
+        { "skill": 1017,"precondition": [{ "skill": 3001,"lv": 1 }] },
+        { "skill": 1020,"precondition": [{ "skill": 1017,"lv": 1 },{ "skill": 1016,"lv": 1 }] },
+        { "skill": 2003,"precondition": [{ "skill": 1020,"lv": 1 }] }
+    ],
+    "9002": [
+        { "skill": 3002,"precondition": [] },
+        { "skill": 1003,"precondition": [{ "skill": 3002,"lv": 1 }] },
+        { "skill": 2005,"precondition": [{ "skill": 1003,"lv": 2 }] },
+        { "skill": 1002,"precondition": [{ "skill": 1003,"lv": 1 }] },
+        { "skill": 2006,"precondition": [{ "skill": 1002,"lv": 1 }] },
+        { "skill": 1011,"precondition": [{ "skill": 2006,"lv": 1 }] },
+        { "skill": 1001,"precondition": [{ "skill": 1003,"lv": 1 }] },
+        { "skill": 2004,"precondition": [{ "skill": 1001,"lv": 1 }] },
+        { "skill": 1010,"precondition": [{ "skill": 2004,"lv": 1 }] },
+        { "skill": 4001,"precondition": [{ "skill": 1011,"lv": 1 },{ "skill": 2005,"lv": 1 },{ "skill": 1010,"lv": 1 }] },
+        { "skill": 1016,"precondition": [{ "skill": 3002,"lv": 1 }] },
+        { "skill": 2002,"precondition": [{ "skill": 1016,"lv": 1 }] },
+        { "skill": 1006,"precondition": [{ "skill": 3002,"lv": 1 }] },
+        { "skill": 1008,"precondition": [{ "skill": 1006,"lv": 1 },{ "skill": 1016,"lv": 1 }] },
+        { "skill": 1019,"precondition": [{ "skill": 1008,"lv": 1 }] },
+        { "skill": 1017,"precondition": [{ "skill": 3002,"lv": 1 }] },
+        { "skill": 1020,"precondition": [{ "skill": 1017,"lv": 1 },{ "skill": 1016,"lv": 1 }] },
+        { "skill": 2003,"precondition": [{ "skill": 1020,"lv": 1 }] }
+    ],
+    "9003": [
+        { "skill": 1,"precondition": [] },
+        { "skill": 2,"precondition": [{ "skill": 1,"lv": 1 }] }
+    ],
+    "9004": [
+        { "skill": 1,"precondition": [] },
+        { "skill": 2,"precondition": [{ "skill": 1,"lv": 1 }] }
+    ],
+    "9005": [
+        { "skill": 1,"precondition": [] },
+        { "skill": 2,"precondition": [{ "skill": 1,"lv": 1 }] }
+    ],
+    "9006": [
+        { "skill": 1,"precondition": [] },
+        { "skill": 2,"precondition": [{ "skill": 1,"lv": 1 }] }
+    ]
+}

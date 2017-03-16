@@ -1,0 +1,36 @@
+{
+	"1001": { "name": "电力","type": 0,"rarity": 1,"description": "最基础的资源" },
+	"1002": { "name": "煤","type": 1,"rarity": 1,"description": "用途广泛的生产素材 可产生少量电力" },
+	"1003": { "name": "铁","type": 1,"rarity": 1,"description": "用途广泛的生产素材" },
+	"1004": { "name": "硫磺","type": 1,"rarity": 1,"description": "用途广泛的生产素材" },
+	"1005": { "name": "低级纤维","type": 1,"rarity": 1,"description": "用途广泛的生产素材" },
+	"1006": { "name": "高级纤维","type": 1,"rarity": 1,"description": "用途广泛的生产素材" },
+	"1007": { "name": "超纤维","type": 1,"rarity": 1,"description": "用途广泛的生产素材" },
+	"1008": { "name": "低纯度黑油","type": 1,"rarity": 1,"description": "用途广泛的生产素材" },
+	"1009": { "name": "高纯度黑油","type": 1,"rarity": 1,"description": "用途广泛的生产素材" },
+	"1010": { "name": "浓缩黑油","type": 1,"rarity": 1,"description": "用途广泛的生产素材" },
+
+	"1501": { "name": "低级工具钢","type": 1,"rarity": 1,"description": "用途广泛的生产素材" },
+	"1502": { "name": "高级工具钢","type": 1,"rarity": 1,"description": "用途广泛的生产素材" },
+	"1503": { "name": "超工具钢","type": 1,"rarity": 1,"description": "用途广泛的生产素材" },
+
+	"3001": { "name": "青铜钥匙","type": 3,"rarity": 1,"description": "开启青铜之门" },
+	"3002": { "name": "白银钥匙","type": 3,"rarity": 2,"description": "开启白银之门" },
+	"3003": { "name": "黄金钥匙","type": 3,"rarity": 3,"description": "开启黄金之门" },
+	"3004": { "name": "白金钥匙","type": 3,"rarity": 4,"description": "开启白金之门" },
+
+	"4001": { "name": "生命药剂","type": 4,"rarity": 2,"description": "恢复角色100生命" },
+	"4002": { "name": "特效药剂","type": 4,"rarity": 3,"description": "恢复角色300生命" },
+	"4003": { "name": "医疗包","type": 4,"rarity": 4,"description": "恢复全部角色100生命" },
+	"4004": { "name": "急救药剂","type": 4,"rarity": 4,"description": "苏生并恢复角色50%生命" },
+
+	"5001": { "name": "烈焰手雷","type": 5,"rarity": 3,"description": "造成50火属性伤害 高几率造成燃烧状态" },
+	"5002": { "name": "电磁放射器","type": 5,"rarity": 3,"description": "造成50雷属性伤害 高几率造成麻痹状态" },
+	"5003": { "name": "冷冻瓶","type": 5,"rarity": 3,"description": "造成50冰属性伤害 高几率造成冻结状态" },
+	"5004": { "name": "腐蚀瓶","type": 5,"rarity": 4,"description": "造成50异属性伤害 高几率造成腐蚀状态" },
+
+	"9101": { "name": "低级工具钢制作图","type": 9,"rarity": 1,"description": "", "event":3101},
+	"9201": { "name": "勃朗宁手枪设计图","type": 9,"rarity": 1,"description": "","event": 3201},
+	"9301": { "name": "突击装甲设计图","type": 9,"rarity": 1,"description": "","event":3301},
+	"9401": { "name": "青铜钥匙制作图","type": 9,"rarity": 1,"description": "","event":3401}
+}

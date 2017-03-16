@@ -1,0 +1,495 @@
+{
+    "1001": {
+        "name": "近战适应性","type": 2,"target": 0,"key": 1,"levelProp": [
+            { "value": 0.05,"description": "装备近战武器时 攻击力提升5%" },
+            { "value": 0.1,"description": "装备近战武器时 攻击力提升10%" },
+            { "value": 0.15,"description": "装备近战武器时 攻击力提升15%" },
+            { "value": 0.2,"description": "装备近战武器时 攻击力提升20%" },
+            { "value": 0.25,"description": "装备近战武器时 攻击力提升25%" },
+            { "value": 0.3,"description": "装备近战武器时 攻击力提升30%" },
+            { "value": 0.35,"description": "装备近战武器时 攻击力提升35%" },
+            { "value": 0.4,"description": "装备近战武器时 攻击力提升40%" },
+            { "value": 0.45,"description": "装备近战武器时 攻击力提升45%" },
+            { "value": 0.5,"description": "装备近战武器时 攻击力提升50%" }
+        ]
+    },
+    "1002": {
+        "name": "自动弩适应性","type": 2,"target": 0,"key": 2,"levelProp": [
+            { "value": 0.05,"description": "装备自动弩时 攻击力提升5%" },
+            { "value": 0.1,"description": "装备自动弩时 攻击力提升10%" },
+            { "value": 0.15,"description": "装备自动弩时 攻击力提升15%" },
+            { "value": 0.2,"description": "装备自动弩时 攻击力提升20%" },
+            { "value": 0.25,"description": "装备自动弩时 攻击力提升25%" },
+            { "value": 0.3,"description": "装备自动弩时 攻击力提升30%" },
+            { "value": 0.35,"description": "装备自动弩时 攻击力提升35%" },
+            { "value": 0.4,"description": "装备自动弩时 攻击力提升40%" },
+            { "value": 0.45,"description": "装备自动弩时 攻击力提升45%" },
+            { "value": 0.5,"description": "装备自动弩时 攻击力提升50%" }
+        ]
+    },
+    "1003": {
+        "name": "手枪适应性","type": 2,"target": 0,"key": 3,"levelProp": [
+            { "value": 0.05,"description": "装备手枪时 攻击力提升5%" },
+            { "value": 0.1,"description": "装备手枪时 攻击力提升10%" },
+            { "value": 0.15,"description": "装备手枪时 攻击力提升15%" },
+            { "value": 0.2,"description": "装备手枪时 攻击力提升20%" },
+            { "value": 0.25,"description": "装备手枪时 攻击力提升25%" },
+            { "value": 0.3,"description": "装备手枪时 攻击力提升30%" },
+            { "value": 0.35,"description": "装备手枪时 攻击力提升35%" },
+            { "value": 0.4,"description": "装备手枪时 攻击力提升40%" },
+            { "value": 0.45,"description": "装备手枪时 攻击力提升45%" },
+            { "value": 0.5,"description": "装备手枪时 攻击力提升50%" }
+        ]
+    },
+    "1004": {
+        "name": "散弹枪适应性","type": 2,"target": 0,"key": 4,"levelProp": [
+            { "value": 0.05,"description": "装备散弹枪时 攻击力提升5%" },
+            { "value": 0.1,"description": "装备散弹枪时 攻击力提升10%" },
+            { "value": 0.15,"description": "装备散弹枪时 攻击力提升15%" },
+            { "value": 0.2,"description": "装备散弹枪时 攻击力提升20%" },
+            { "value": 0.25,"description": "装备散弹枪时 攻击力提升25%" },
+            { "value": 0.3,"description": "装备散弹枪时 攻击力提升30%" },
+            { "value": 0.35,"description": "装备散弹枪时 攻击力提升35%" },
+            { "value": 0.4,"description": "装备散弹枪时 攻击力提升40%" },
+            { "value": 0.45,"description": "装备散弹枪时 攻击力提升45%" },
+            { "value": 0.5,"description": "装备散弹枪时 攻击力提升50%" }
+        ]
+    },
+    "1005": {
+        "name": "重兵器适应性","type": 2,"target": 0,"key": 5,"levelProp": [
+            { "value": 0.05,"description": "装备重兵器时 攻击力提升5%" },
+            { "value": 0.1,"description": "装备重兵器时 攻击力提升10%" },
+            { "value": 0.15,"description": "装备重兵器时 攻击力提升15%" },
+            { "value": 0.2,"description": "装备重兵器时 攻击力提升20%" },
+            { "value": 0.25,"description": "装备重兵器时 攻击力提升25%" },
+            { "value": 0.3,"description": "装备重兵器时 攻击力提升30%" },
+            { "value": 0.35,"description": "装备重兵器时 攻击力提升35%" },
+            { "value": 0.4,"description": "装备重兵器时 攻击力提升40%" },
+            { "value": 0.45,"description": "装备重兵器时 攻击力提升45%" },
+            { "value": 0.5,"description": "装备重兵器时 攻击力提升50%" }
+        ]
+    },
+    "1006": {
+        "name": "装甲适应性","type": 3,"target": 0,"key": 1,"levelProp": [
+            { "value": 0.05,"description": "装甲耐久值提升5%" },
+            { "value": 0.1,"description": "装甲耐久值提升10%" },
+            { "value": 0.15,"description": "装甲耐久值提升15%" },
+            { "value": 0.2,"description": "装甲耐久值提升20%" },
+            { "value": 0.25,"description": "装甲耐久值提升25%" },
+            { "value": 0.3,"description": "装甲耐久值提升30%" },
+            { "value": 0.35,"description": "装甲耐久值提升35%" },
+            { "value": 0.4,"description": "装甲耐久值提升40%" },
+            { "value": 0.45,"description": "装甲耐久值提升45%" },
+            { "value": 0.5,"description": "装甲耐久值提升50%" }
+        ]
+    },
+    "1007": {
+        "name": "机甲适应性","type": 3,"target": 0,"key": 2,"levelProp": [
+            { "value": 0.05,"description": "机甲耐久值提升5%" },
+            { "value": 0.1,"description": "机甲耐久值提升10%" },
+            { "value": 0.15,"description": "机甲耐久值提升15%" },
+            { "value": 0.2,"description": "机甲耐久值提升20%" },
+            { "value": 0.25,"description": "机甲耐久值提升25%" },
+            { "value": 0.3,"description": "机甲耐久值提升30%" },
+            { "value": 0.35,"description": "机甲耐久值提升35%" },
+            { "value": 0.4,"description": "机甲耐久值提升40%" },
+            { "value": 0.45,"description": "机甲耐久值提升45%" },
+            { "value": 0.5,"description": "机甲耐久值提升50%" }
+        ]
+    },
+    "1008": {
+        "name": "攻击力提升","type": 1,"target": 0,"key": "atk","levelProp": [
+            { "value": 0.1,"description": "攻击力提升10%" },
+            { "value": 0.2,"description": "攻击力提升20%" },
+            { "value": 0.3,"description": "攻击力提升30%" },
+            { "value": 0.4,"description": "攻击力提升40%" },
+            { "value": 0.5,"description": "攻击力提升50%" },
+            { "value": 0.6,"description": "攻击力提升60%" },
+            { "value": 0.7,"description": "攻击力提升70%" },
+            { "value": 0.8,"description": "攻击力提升80%" },
+            { "value": 0.9,"description": "攻击力提升90%" },
+            { "value": 1.0,"description": "攻击力提升100%" }
+        ]
+    },
+    "1009": {
+        "name": "命中率提升","type": 1,"target": 0,"key": "hitRate","levelProp": [
+            { "value": 5,"description": "命中率提升5" },
+            { "value": 10,"description": "命中率提升10" },
+            { "value": 15,"description": "命中率提升15" },
+            { "value": 20,"description": "命中率提升20" },
+            { "value": 25,"description": "命中率提升25" },
+            { "value": 30,"description": "命中率提升30" },
+            { "value": 35,"description": "命中率提升35" },
+            { "value": 40,"description": "命中率提升40" },
+            { "value": 45,"description": "命中率提升45" },
+            { "value": 50,"description": "命中率提升50" }
+        ]
+    },
+    "1010": {
+        "name": "攻击速度提升","type": 1,"target": 0,"key": "spd","levelProp": [
+            { "value": 0.1,"description": "攻击速度提升10%" },
+            { "value": 0.2,"description": "攻击速度提升20%" },
+            { "value": 0.3,"description": "攻击速度提升30%" },
+            { "value": 0.4,"description": "攻击速度提升40%" },
+            { "value": 0.5,"description": "攻击速度提升50%" },
+            { "value": 0.6,"description": "攻击速度提升60%" },
+            { "value": 0.7,"description": "攻击速度提升70%" },
+            { "value": 0.8,"description": "攻击速度提升80%" },
+            { "value": 0.9,"description": "攻击速度提升90%" },
+            { "value": 1.0,"description": "攻击速度提升100%" }
+        ]
+    },
+    "1011": {
+        "name": "体力提升","type": 1,"target": 0,"key": "hp","levelProp": [
+            { "value": 0.1,"description": "体力提升10%" },
+            { "value": 0.2,"description": "体力提升20%" },
+            { "value": 0.3,"description": "体力提升30%" },
+            { "value": 0.4,"description": "体力提升40%" },
+            { "value": 0.5,"description": "体力提升50%" },
+            { "value": 0.6,"description": "体力提升60%" },
+            { "value": 0.7,"description": "体力提升70%" },
+            { "value": 0.8,"description": "体力提升80%" },
+            { "value": 0.9,"description": "体力提升90%" },
+            { "value": 1.0,"description": "体力提升100%" }
+        ]
+    },
+    "1012": {
+        "name": "回避率提升","type": 1,"target": 0,"key": "avoidRate","levelProp": [
+            { "value": 5,"description": "回避率提升5" },
+            { "value": 10,"description": "回避率提升10" },
+            { "value": 15,"description": "回避率提升15" },
+            { "value": 20,"description": "回避率提升20" },
+            { "value": 25,"description": "回避率提升25" },
+            { "value": 30,"description": "回避率提升30" },
+            { "value": 35,"description": "回避率提升35" },
+            { "value": 40,"description": "回避率提升40" },
+            { "value": 45,"description": "回避率提升45" },
+            { "value": 50,"description": "回避率提升50" }
+        ]
+    },
+    "1013": {
+        "name": "燃烧抵抗提升","type": 1,"target": 0,"key": "burn","levelProp": [
+            { "value": 0.1,"description": "燃烧抵抗提升10%" },
+            { "value": 0.2,"description": "燃烧抵抗提升20%" },
+            { "value": 0.3,"description": "燃烧抵抗提升30%" },
+            { "value": 0.4,"description": "燃烧抵抗提升40%" },
+            { "value": 0.5,"description": "燃烧抵抗提升50%" },
+            { "value": 0.6,"description": "燃烧抵抗提升60%" },
+            { "value": 0.7,"description": "燃烧抵抗提升70%" },
+            { "value": 0.8,"description": "燃烧抵抗提升80%" },
+            { "value": 0.9,"description": "燃烧抵抗提升90%" },
+            { "value": 1.0,"description": "燃烧防止" }
+        ]
+    },
+    "1014": {
+        "name": "燃烧防止","type": 1,"target": 0,"key": "burn","levelProp": [
+            { "value": 1.0,"description": "燃烧防止" }
+        ]
+    },
+    "1015": {
+        "name": "麻痹抵抗提升","type": 1,"target": 0,"key": "numbness","levelProp": [
+            { "value": 0.1,"description": "麻痹抵抗提升10%" },
+            { "value": 0.2,"description": "麻痹抵抗提升20%" },
+            { "value": 0.3,"description": "麻痹抵抗提升30%" },
+            { "value": 0.4,"description": "麻痹抵抗提升40%" },
+            { "value": 0.5,"description": "麻痹抵抗提升50%" },
+            { "value": 0.6,"description": "麻痹抵抗提升60%" },
+            { "value": 0.7,"description": "麻痹抵抗提升70%" },
+            { "value": 0.8,"description": "麻痹抵抗提升80%" },
+            { "value": 0.9,"description": "麻痹抵抗提升90%" },
+            { "value": 1.0,"description": "麻痹防止" }
+        ]
+    },
+    "1016": {
+        "name": "麻痹防止","type": 1,"target": 0,"key": "numbness","levelProp": [
+            { "value": 1.0,"description": "麻痹防止" }
+        ]
+    },
+    "1017": {
+        "name": "冻结抵抗提升","type": 1,"target": 0,"key": "freeze","levelProp": [
+            { "value": 0.1,"description": "冻结抵抗提升10%" },
+            { "value": 0.2,"description": "冻结抵抗提升20%" },
+            { "value": 0.3,"description": "冻结抵抗提升30%" },
+            { "value": 0.4,"description": "冻结抵抗提升40%" },
+            { "value": 0.5,"description": "冻结抵抗提升50%" },
+            { "value": 0.6,"description": "冻结抵抗提升60%" },
+            { "value": 0.7,"description": "冻结抵抗提升70%" },
+            { "value": 0.8,"description": "冻结抵抗提升80%" },
+            { "value": 0.9,"description": "冻结抵抗提升90%" },
+            { "value": 1.0,"description": "冻结防止" }
+        ]
+    },
+    "1018": {
+        "name": "冻结防止","type": 1,"target": 0,"key": "freeze","levelProp": [
+            { "value": 1.0,"description": "冻结防止" }
+        ]
+    },
+    "1019": {
+        "name": "感染抵抗提升","type": 1,"target": 0,"key": "erosion","levelProp": [
+            { "value": 0.1,"description": "感染抵抗提升10%" },
+            { "value": 0.2,"description": "感染抵抗提升20%" },
+            { "value": 0.3,"description": "感染抵抗提升30%" },
+            { "value": 0.4,"description": "感染抵抗提升40%" },
+            { "value": 0.5,"description": "感染抵抗提升50%" },
+            { "value": 0.6,"description": "感染抵抗提升60%" },
+            { "value": 0.7,"description": "感染抵抗提升70%" },
+            { "value": 0.8,"description": "感染抵抗提升80%" },
+            { "value": 0.9,"description": "感染抵抗提升90%" },
+            { "value": 1.0,"description": "感染防止" }
+        ]
+    },
+    "1020": {
+        "name": "感染防止","type": 1,"target": 0,"key": "erosion","levelProp": [
+            { "value": 1.0,"description": "感染防止" }
+        ]
+    },
+    "1021": {
+    },
+    "1022": {
+    },
+    "1023": {
+        "name": "获得历练点加成","type": 1,"target": 0,"key": "","levelProp": [
+            { "value": 0.1,"description": "" }
+        ]
+    },
+    "1024": {
+        "name": "战技槽上涨速度提升","type": 1,"target": 0,"key": "","levelProp": [
+            { "value": 0.1,"description": "" }
+        ]
+    },
+    "1025": {
+        "name": "受到伤害减免","type": 1,"target": 0,"key": "","levelProp": [
+            { "value": 0.1,"description": "" }
+        ]
+    },
+    "1026": {
+        "name": "异常命中率提升","type": 1,"target": 0,"key": "debuffHitRate","levelProp": [
+            { "value": 0.1,"description": "异常命中率稍微提升" },
+            { "value": 0.2,"description": "异常命中率少量提升" },
+            { "value": 0.3,"description": "异常命中率提升" },
+            { "value": 0.4,"description": "异常命中率大量提升" },
+            { "value": 0.5,"description": "异常命中率巨大提升" }
+        ]
+    },
+    "1027": {
+        "name": "能耗下降","type": 1,"target": 0,"key": "energyConp","levelProp": [
+            { "value": -0.1,"description": "装备能耗下降10%" },
+            { "value": -0.2,"description": "装备能耗下降20%" },
+            { "value": -0.3,"description": "装备能耗下降30%" },
+            { "value": -0.4,"description": "装备能耗下降40%" },
+            { "value": -0.5,"description": "装备能耗下降50%" }
+        ]
+    },
+    "1028": {
+        "name": "休息恢复量提升","type": 1,"target": 0,"key": "recover","levelProp": [
+            { "value": 0.1,"description": "休息恢复量稍微提升" },
+            { "value": 0.2,"description": "休息恢复量少量提升" },
+            { "value": 0.3,"description": "休息恢复量提升" },
+            { "value": 0.4,"description": "休息恢复量大量提升" },
+            { "value": 0.5,"description": "休息恢复量巨大提升" }
+        ]
+    },
+    "1029": {
+        "name": "仇恨值提升","type": 1,"target": 0,"key": "hatred","levelProp": [
+            { "value": 10,"description": "成为攻击目标几率提升10%" },
+            { "value": 20,"description": "成为攻击目标几率提升20%" },
+            { "value": 30,"description": "成为攻击目标几率提升30%" },
+            { "value": 40,"description": "成为攻击目标几率提升40%" },
+            { "value": 50,"description": "成为攻击目标几率提升50%" },
+            { "value": 60,"description": "成为攻击目标几率提升60%" },
+            { "value": 70,"description": "成为攻击目标几率提升70%" },
+            { "value": 80,"description": "成为攻击目标几率提升80%" },
+            { "value": 90,"description": "成为攻击目标几率提升90%" },
+            { "value": 100,"description": "成为攻击目标几率提升100%" }
+        ]
+    },
+    "1030": {
+        "name": "仇恨值下降","type": 1,"target": 0,"key": "hatred","levelProp": [
+            { "value": 0.1,"description": "成为攻击目标几率下降10%" },
+            { "value": 0.2,"description": "成为攻击目标几率下降20%" },
+            { "value": 0.3,"description": "成为攻击目标几率下降30%" },
+            { "value": 0.4,"description": "成为攻击目标几率下降40%" },
+            { "value": 0.5,"description": "成为攻击目标几率下降50%" }
+        ]
+    },
+
+    "2001": {
+        "name": "掉落率提升","type": 1,"target": 3,"key": "drop","levelProp": [
+            { "value": 0.1,"description": "" }
+        ]
+    },
+    "2002": {
+        "name": "敌人信息解析","type": 1,"target": 3,"key": "analysis","levelProp": [
+            { "value": 0.1,"description": "" }
+        ]
+    },
+    "2003": {
+        "name": "探索视野","type": 1,"target": 3,"key": "horizon","levelProp": [
+            { "value": 0.1,"description": "" }
+        ]
+    },
+    "2004": {
+        "name": "战斗逃离速度提升","type": 1,"target": 3,"key": "escape","levelProp": [
+            { "value": 0.1,"description": "" }
+        ]
+    },
+    "2005": {
+        "name": "进入战斗先攻几率提升","type": 1,"target": 3,"key": "","levelProp": [
+            { "value": 0.1,"description": "" }
+        ]
+    },
+
+    "3001": {
+        "name": "药品使用","type": 9,"key": 4,"levelProp": [
+            { "value": 4,"description": "战斗中使用<药品>道具" }
+        ]
+    },
+    "3002":{
+        "name": "投掷武器使用","type": 9,"key": 5,"levelProp": [
+            { "value": 5,"description": "战斗中使用<投掷>道具" }
+        ]
+    },
+
+    "5001": {
+        "name": "单次普攻","type": 4,"valueType": 1,"levelProp": [
+            { "time": [1,1],"value": 1,"description": "造成100%伤害" }
+        ]
+    },
+    "5002": {
+        "name": "分散普攻","type": 4,"valueType": 1,"levelProp": [
+            { "time": [5,5],"value": 0.2,"description": "瞬间造成5次20%伤害" }
+        ]
+    },
+
+    "4001": {
+        "name": "单次超强伤害","type": 4,"valueType": 1,"levelProp": [
+            { "time": [1,1],"value": 3,"description": "造成300%伤害" },
+            { "time": [1,1],"value": 3.2,"description": "造成320%伤害" },
+            { "time": [1,1],"value": 3.4,"description": "造成340%伤害" },
+            { "time": [1,1],"value": 3.6,"description": "造成360%伤害" },
+            { "time": [1,1],"value": 3.8,"description": "造成380%伤害" },
+            { "time": [1,1],"value": 4,"description": "造成400%伤害" }
+        ]
+    },
+    "4002": {
+        "name": "5次弱伤害","type": 4,"valueType": 1,"levelProp": [
+            { "time": [5,5],"value": 0.5,"description": "瞬间造成5次50%伤害" },
+            { "time": [5,5],"value": 0.55,"description": "瞬间造成5次55%伤害" },
+            { "time": [5,5],"value": 0.6,"description": "瞬间造成5次60%伤害" },
+            { "time": [5,5],"value": 0.65,"description": "瞬间造成5次65%伤害" },
+            { "time": [5,5],"value": 0.7,"description": "瞬间造成5次70%伤害" },
+            { "time": [5,5],"value": 0.8,"description": "瞬间造成5次80%伤害" }
+        ]
+    },
+    "4003": {
+        "name": "3次强伤害","type": 4,"valueType": 1,"levelProp": [
+            { "time": [3,3],"value": 1.5,"description": "瞬间造成3次150%伤害" },
+            { "time": [3,3],"value": 1.6,"description": "瞬间造成3次160%伤害" },
+            { "time": [3,3],"value": 1.7,"description": "瞬间造成3次170%伤害" },
+            { "time": [3,3],"value": 1.8,"description": "瞬间造成3次180%伤害" },
+            { "time": [3,3],"value": 1.9,"description": "瞬间造成3次190%伤害" },
+            { "time": [3,3],"value": 2,"description": "瞬间造成3次200%伤害" }
+        ]
+    },
+    "4004": {
+        "name": "多次较强伤害","type": 4,"valueType": 1,"levelProp": [
+            { "time": [2,3],"value": 3,"description": "连续造成2~3次120%伤害" },
+            { "time": [2,4],"value": 3.2,"description": "连续造成2~4次120%伤害" },
+            { "time": [3,4],"value": 3.4,"description": "连续造成3~4次120%伤害" },
+            { "time": [3,5],"value": 3.6,"description": "连续造成3~5次120%伤害" },
+            { "time": [4,5],"value": 3.8,"description": "连续造成4~5次120%伤害" },
+            { "time": [4,6],"value": 4,"description": "连续造成4~6次120%伤害" }
+        ]
+    },
+    
+    "4031": {
+        "name": "治疗","type": 5,"valueType": 2,"levelProp": [
+            { "time": [1,1],"value": 0,"description": "治疗" }
+        ]
+    },
+
+    "4034": {
+        "name": "百分比治疗","type": 5,"valueType": 1,"levelProp": [
+            { "time": [1,1],"value": 0.3,"description": "恢复30%生命" },
+            { "time": [1,1],"value": 0.4,"description": "恢复40%生命" },
+            { "time": [1,1],"value": 0.5,"description": "恢复50%生命" },
+            { "time": [1,1],"value": 0.6,"description": "恢复60%生命" },
+            { "time": [1,1],"value": 0.7,"description": "恢复70%生命" },
+            { "time": [1,1],"value": 0.8,"description": "恢复80%生命" }
+        ]
+    },
+
+    "6001": {
+        "name": "全体","type": 6,"key": "target","levelProp": [
+            { "value": 2,"description": "群体" }
+        ]
+    },
+    "6002": {
+        "name": "必中","type": 6,"key": "hitRate","levelProp": [
+            { "value": 300,"description": "必中" }
+        ]
+    },
+    "6003": {
+        "name": "威慑","type": 6,"key": "deter","levelProp": [
+            { "value": -1,"hitRate": 50,"description": "较低几率目标行动值归零" },
+            { "value": -1,"hitRate": 60,"description": "低几率目标行动值归零" },
+            { "value": -1,"hitRate": 70,"description": "一定几率目标行动值归零" },
+            { "value": -1,"hitRate": 80,"description": "高几率目标行动值归零" },
+            { "value": -1,"hitRate": 90,"description": "超高几率目标行动值归零" }
+        ]
+    },
+    "6004": {
+        "name": "击晕","type": 6,"key": "swoon","levelProp": [
+            { "value": -1,"hitRate": 30,"description": "较低几率目标战技值归零" },
+            { "value": -1,"hitRate": 40,"description": "低几率目标战技值归零" },
+            { "value": -1,"hitRate": 60,"description": "一定几率目标战技值归零" },
+            { "value": -1,"hitRate": 70,"description": "高几率目标战技值归零" },
+            { "value": -1,"hitRate": 80,"description": "超高几率目标战技值归零" }
+        ]
+    },
+    "6005": {
+        "name": "苏生","type": 6,"key": "resurgence","levelProp": [
+            { "value": 1,"description": "苏生" }
+        ]
+    },
+    "6006": {
+        "name": "火","type": 6,"key": "atType","levelProp": [
+            { "value": "burn","description": "火属性伤害" }
+        ]
+    },
+    "6007": {
+        "name": "雷","type": 6,"key": "atType","levelProp": [
+            { "value": "numbness","description": "雷属性伤害" }
+        ]
+    },
+    "6008": {
+        "name": "冰","type": 6,"key": "atType","levelProp": [
+            { "value": "freeze","description": "冰属性伤害" }
+        ]
+    },
+    "6009": {
+        "name": "异","type": 6,"key": "atType","levelProp": [
+            { "value": "erosion","description": "异属性伤害" }
+        ]
+    },
+    "8001": {
+        "name": "复原","type": 8,"key": "debuff","levelProp": [
+            { "value": 0,"hitRate": 100,"description": "消除全部异常状态" }
+        ]
+    },
+    "9101": {
+        "name": "火焰动画","type": 10,"key": "animat","levelProp": [
+            { "value": "battle_fire","description": "火焰动画" }
+        ]
+    },
+    "9110": {
+        "name": "治疗动画","type": 10,"key": "animat","levelProp": [
+            { "value": "battle_cure","description": "治疗动画" }
+        ]
+    },
+    "9111": {
+        "name": "爆炸动画","type": 10,"key": "animat","levelProp": [
+            { "value": "battle_boom","description": "爆炸动画" }
+        ]
+    }
+}

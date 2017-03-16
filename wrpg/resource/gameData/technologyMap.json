@@ -1,0 +1,40 @@
+{
+	"101": { "name": "行囊1","type": 1,"value": 30,"consume": [{ "id": 1001,"count": 100 },{ "id": 1005,"count": 10 }],"description": "队伍背包容量提升至30","event": 4101 },
+	"102": { "name": "行囊2","type": 1,"value": 40,"consume": [{ "id": 1001,"count": 5000 },{ "id": 1006,"count": 50 }],"description": "队伍背包容量提升至40","event": 4102 },
+	"103": { "name": "行囊3","type": 1,"value": 50,"consume": [{ "id": 1001,"count": 10000 },{ "id": 1007,"count": 50 }],"description": "队伍背包容量提升至50","event": 4103 },
+	"104": { "name": "行囊4","type": 1,"value": 60,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "队伍背包容量提升至60","event": 4104 },
+	"105": { "name": "行囊5","type": 1,"value": 70,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "队伍背包容量提升至70","event": 4105 },
+
+	"301": { "name": "电池1","type": 3,"value": 200,"consume": [{ "id": 1001,"count": 100 },{ "id": 1003,"count": 3 }],"description": "队伍携带电力上限提升至200","event": 4301 },
+	"302": { "name": "电池2","type": 3,"value": 200,"consume": [{ "id": 1001,"count": 100 },{ "id": 1502,"count": 50 }],"description": "队伍携带电力上限提升至400","event": 4302 },
+	"303": { "name": "电池3","type": 3,"value": 200,"consume": [{ "id": 1001,"count": 1 }],"description": "队伍携带电力上限提升至600","event": 4303 },
+	"304": { "name": "电池4","type": 3,"value": 200,"consume": [{ "id": 1001,"count": 1 }],"description": "队伍携带电力上限提升至800","event": 4304 },
+	"305": { "name": "电池5","type": 3,"value": 200,"consume": [{ "id": 1001,"count": 1 }],"description": "队伍携带电力上限提升至1000","event": 4305 },
+
+	"401": { "name": "煤矿场Lv1","type": 4,"value": 1,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 10 }],"description": "煤矿等级提升 产量0->10","event": 4401 },
+	"402": { "name": "煤矿场Lv2","type": 4,"value": 2,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "煤矿等级提升 产量10->20","event": 4402 },
+	"403": { "name": "煤矿场Lv3","type": 4,"value": 3,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "煤矿等级提升 产量20->30","event": 4403 },
+	"404": { "name": "煤矿场Lv4","type": 4,"value": 4,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "煤矿等级提升 产量30->40","event": 4404 },
+	"405": { "name": "煤矿场Lv5","type": 4,"value": 5,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "煤矿等级提升 产量40->50","event": 4405 },
+	"406": { "name": "煤矿场Lv6","type": 4,"value": 6,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "煤矿等级提升 产量50->60","event": 4406 },
+	"407": { "name": "煤矿场Lv7","type": 4,"value": 7,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "煤矿等级提升 产量60->70","event": 4407 },
+	"408": { "name": "煤矿场Lv8","type": 4,"value": 8,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "煤矿等级提升 产量70->80","event": 4408 },
+	"409": { "name": "煤矿场Lv9","type": 4,"value": 9,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "煤矿等级提升 产量80->90","event": 4409 },
+	"410": { "name": "煤矿场Lv10","type": 4,"value": 10,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "煤矿等级提升 产量90->100","event": 4410 },
+
+	"501": { "name": "铁矿场Lv1","type": 5,"value": 1,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 20 }],"description": "铁矿等级提升 产量0->10","event": 4501 },
+	"502": { "name": "铁矿场Lv2","type": 5,"value": 2,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "铁矿等级提升 产量10->20","event": 4502 },
+	"503": { "name": "铁矿场Lv3","type": 5,"value": 3,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "铁矿等级提升 产量20->30","event": 4503 },
+	"504": { "name": "铁矿场Lv4","type": 5,"value": 4,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "铁矿等级提升 产量30->40","event": 4504 },
+	"505": { "name": "铁矿场Lv5","type": 5,"value": 5,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "铁矿等级提升 产量40->50","event": 4505 },
+	"506": { "name": "铁矿场Lv6","type": 5,"value": 6,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "铁矿等级提升 产量50->60","event": 4506 },
+	"507": { "name": "铁矿场Lv7","type": 5,"value": 7,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "铁矿等级提升 产量60->70","event": 4507 },
+	"508": { "name": "铁矿场Lv8","type": 5,"value": 8,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "铁矿等级提升 产量70->80","event": 4508 },
+	"509": { "name": "铁矿场Lv9","type": 5,"value": 9,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "铁矿等级提升 产量80->90","event": 4509 },
+	"510": { "name": "铁矿场Lv10","type": 5,"value": 10,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "铁矿等级提升 产量90->100","event": 4510 },
+
+	"601": { "name": "火电站","type": 6,"value": [101,102],"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "可将燃料“煤”转换为能源","event": 4601 },
+
+	"701": { "name": "燃烧效率","type": 7,"value": 1.1,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "燃料转换电力的效率提升10%","event": 4701 },
+	"702": { "name": "高核效率","type": 7,"value": 1.2,"consume": [{ "id": 1001,"count": 1 },{ "id": 1003,"count": 1 }],"description": "燃料转换电力的效率提升20%","event": 4702 }
+}
