@@ -41,7 +41,7 @@ var UserDragCommand = (function () {
             cardViewNow.row = lastCardView.getRow() + 1;
             cardViewNow.col = lastCardView.getCol();
             cardViewNow.x = lastCardView.getX();
-            cardViewNow.y = lastCardView.getY() + (upCardNum + i) * 15;
+            cardViewNow.y = lastCardView.getY() + (upCardNum + i) * 20;
             UserDragCommand.cardLists[lastCardView.getCol()].push(cardViewNow);
             UserDragCommand.cardViews.addChild(cardViewNow);
         }
@@ -93,7 +93,7 @@ var UserDragCommand = (function () {
             cardViewNow.row = lastCardView.getRow() + 1;
             cardViewNow.col = lastCardView.getCol();
             cardViewNow.x = lastCardView.getX();
-            cardViewNow.y = lastCardView.getY() + (upCardNum + i) * 15 - upCardNum2;
+            cardViewNow.y = lastCardView.getY() + (upCardNum + i) * 20 - upCardNum2;
             UserDragCommand.cardLists[lastCardView.getCol()].push(cardViewNow);
             UserDragCommand.cardViews.addChild(cardViewNow);
         }
@@ -151,7 +151,7 @@ var UserDragCommand = (function () {
         for (var i = 0; i < showPaiNum; i++) {
             var cardView = destView.removeChildAt(destView.numChildren - 1);
             cardView.x = lastCardView.x;
-            cardView.y = lastCardView.y + upCardNum + i * 15;
+            cardView.y = lastCardView.y + upCardNum + i * 20;
             UserDragCommand.cardViews.addChild(cardView);
             cardList.push(cardView);
         }

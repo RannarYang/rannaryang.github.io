@@ -7,6 +7,8 @@ var GameLogic = (function () {
         Laya.stage.alignV = Laya.Stage.ALIGN_MIDDLE;
         Laya.stage.alignH = Laya.Stage.ALIGN_CENTER;
         Laya.stage.scaleMode = Laya.Stage.SCALE_SHOWALL;
+        Laya.stage.screenMode = Laya.Stage.SCREEN_HORIZONTAL;
+        Laya.stage.fullScreenEnabled = true;
         laya.utils.Stat.show(0, 0);
         Laya.stage.frameRate = "mouse";
         Laya.stage.bgColor = '#00701A';

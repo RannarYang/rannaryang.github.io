@@ -196,7 +196,7 @@ var CardManageView = (function (_super) {
         var cardList = this.cardLists[cardView.col];
         for (var i = cardView.row; i < cardList.length; i++) {
             cardList[i].x = 0;
-            cardList[i].y = (i - cardView.row) * 15;
+            cardList[i].y = (i - cardView.row) * 20;
             this.dragViews.addChild(cardList[i]);
         }
         this.dragViews.startDrag(new Laya.Rectangle(0, 0, GameData.stageWidth - CardView.cardWidth, GameData.stageHeight - CardView.cardHeight));
@@ -247,7 +247,7 @@ var CardManageView = (function (_super) {
             var firstYAdd = 0;
             if (row - 1 >= 0) {
                 lastCardView = this.cardLists[col][row - 1];
-                firstYAdd = lastCardView.isShow ? 15 : 5;
+                firstYAdd = lastCardView.isShow ? 20 : 5;
             }
             else {
                 lastCardView = this.blankViews.getChildAt(col);
@@ -259,7 +259,7 @@ var CardManageView = (function (_super) {
                 cardViewNow.row = lastCardView.getRow() + 1 + i - row;
                 cardViewNow.col = lastCardView.getCol();
                 cardViewNow.x = lastCardView.getX();
-                cardViewNow.y = lastCardView.getY() + firstYAdd + (i - row) * 15;
+                cardViewNow.y = lastCardView.getY() + firstYAdd + (i - row) * 20;
                 this.cardViews.addChild(cardViewNow);
             }
             this.changeOperator(col);
